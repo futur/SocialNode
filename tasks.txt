@@ -1,0 +1,16 @@
+Social Node
+
+#Facebook
+
+1.Search Pages and return relevant pages JSON
+	https://graph.facebook.com/search?q=enterprise%20mobility&type=page&access_token=AAAAAAITEghMBAJaJrEZCZA965Nh8tZBb3VWMEpSg4foZBrXihBZBhnz53Kq9ZA7T1xQHp6y58ZBQp0ZBSfeCJDQugZB3vDAdAri8lefCMP2UoNAl2wISKVay8
+
+2. Search Posts and ret:JSON => cut down the length of the caption.
+	https://graph.facebook.com/search?q=symphonyteleca&type=post&access_token=AAAAAAITEghMBAJaJrEZCZA965Nh8tZBb3VWMEpSg4foZBrXihBZBhnz53Kq9ZA7T1xQHp6y58ZBQp0ZBSfeCJDQugZB3vDAdAri8lefCMP2UoNAl2wISKVay8&limit=10
+
+4.  Search places with geo-cords
+	https://graph.facebook.com/search?q=mobility&type=place&center=37.76,-122.427&distance=1000&access_token=AAAAAAITEghMBAJaJrEZCZA965Nh8tZBb3VWMEpSg4foZBrXihBZBhnz53Kq9ZA7T1xQHp6y58ZBQp0ZBSfeCJDQugZB3vDAdAri8lefCMP2UoNAl2wISKVay8&limit=10
+
+#Twitter
+
+1.
